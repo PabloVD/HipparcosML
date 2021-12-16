@@ -8,6 +8,6 @@ This repository includes two jupyter notebooks:
 
 - `HipparcosEDA.ipynb`: exploratory data analysis of the Hipparcos dataset via different visualization routines using pandas and seaborn.
 
-- `HipparcosML.ipynb`: classification of the Hipparcos stars based on their variability type (see [here](https://www.kaggle.com/konivat/hipparcos-star-catalog/discussion/200255) for more details on the different categories), using random forests and PCA in sklearn.
+- `HipparcosML.ipynb`: classification of the Hipparcos stars based on their variability and spectral type (see [here](https://www.kaggle.com/konivat/hipparcos-star-catalog/discussion/200255) for more details on the different categories), using random forests, k-NN and PCA in sklearn.
 
 <img src="Hippairplot.png" width="500">
