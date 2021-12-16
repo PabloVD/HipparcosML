@@ -10,4 +10,4 @@ This repository includes two jupyter notebooks:
 
 - `HipparcosML.ipynb`: classification of the Hipparcos stars based on their variability and spectral type (see [here](https://www.kaggle.com/konivat/hipparcos-star-catalog/discussion/200255) for more details on the different categories), using random forests, k-NN and PCA in sklearn.
 
-<img src="Hippairplot.png" width="500">
+<img src="Hippairplot.png" width="600">
